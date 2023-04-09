@@ -41,3 +41,24 @@ Visual Question Answering
 
 ![Screenshot from 2023-04-09 18-31-31](https://user-images.githubusercontent.com/49360095/230771378-681b6dd6-b7ee-426e-99c9-8201fe8a1b64.png)
 
+![Screenshot from 2023-04-09 18-31-50](https://user-images.githubusercontent.com/49360095/230792276-c1e63ee2-0884-46d9-87dd-88086e81f258.png)
+
+![Screenshot from 2023-04-10 01-35-00](https://user-images.githubusercontent.com/49360095/230792282-6e418268-ee1d-4dda-984a-ab2c516b04b8.png)
+
+![Screenshot from 2023-04-10 01-39-44](https://user-images.githubusercontent.com/49360095/230792290-eb1a3f3d-88bc-400e-a417-876faa546a14.png)
+
+![Screenshot from 2023-04-10 01-40-03](https://user-images.githubusercontent.com/49360095/230792292-8a2f5ef1-2842-462a-a6a9-f922deaa734f.png)
+
+![Screenshot from 2023-04-10 01-41-40](https://user-images.githubusercontent.com/49360095/230792297-a3b2548c-45d6-4c37-96c2-07916b194139.png)
+
+![Screenshot from 2023-04-10 01-42-00](https://user-images.githubusercontent.com/49360095/230792304-1d932f8b-321f-4913-b611-5b895e98ee3a.png)
+![Screenshot from 2023-04-10 01-42-32](https://user-images.githubusercontent.com/49360095/230792316-39b5ce12-3d3e-4360-b464-afbb3ff9b49c.png)
+
+![Screenshot from 2023-04-10 01-44-53](https://user-images.githubusercontent.com/49360095/230792336-fdac27c3-51b4-4dde-8ac2-3d60d1f2290b.png)
+
+![Screenshot from 2023-04-10 01-45-03](https://user-images.githubusercontent.com/49360095/230792343-55422df4-f4ca-4a7f-aa46-b7c037a067e2.png)
+
+![Screenshot from 2023-04-10 01-45-49](https://user-images.githubusercontent.com/49360095/230792351-63c11b59-5e65-4a27-9c3a-6d70b3270d71.png)
+![Screenshot from 2023-04-10 01-47-22](https://user-images.githubusercontent.com/49360095/230792359-653a3df3-7d40-466a-aeed-2434b0eacab8.png)
+
+
