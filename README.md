@@ -30,5 +30,10 @@ Speaker Verification
 Visual Question Answering
 ![Screenshot from 2023-04-09 18-14-23](https://user-images.githubusercontent.com/49360095/230770815-88d3865a-0096-458b-9d60-543e5cf20bfd.png)
 
+
 ![Screenshot from 2023-04-09 18-12-56](https://user-images.githubusercontent.com/49360095/230770947-da65ebe7-16d0-44dd-864e-dd810e848639.png)
+![Screenshot from 2023-04-09 18-25-00](https://user-images.githubusercontent.com/49360095/230771195-b45f2638-93d2-4d89-a29a-898f483493e0.png)
+
+
+![Screenshot from 2023-04-09 18-28-25](https://user-images.githubusercontent.com/49360095/230771201-3c33918e-1498-4053-a87e-32302b03a51a.png)
 
