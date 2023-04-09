@@ -37,3 +37,7 @@ Visual Question Answering
 
 ![Screenshot from 2023-04-09 18-28-25](https://user-images.githubusercontent.com/49360095/230771201-3c33918e-1498-4053-a87e-32302b03a51a.png)
 
+![Screenshot from 2023-04-09 18-31-50](https://user-images.githubusercontent.com/49360095/230771373-f0f1e9bb-8bde-4c46-981b-580ff1174c79.png)
+
+![Screenshot from 2023-04-09 18-31-31](https://user-images.githubusercontent.com/49360095/230771378-681b6dd6-b7ee-426e-99c9-8201fe8a1b64.png)
+
