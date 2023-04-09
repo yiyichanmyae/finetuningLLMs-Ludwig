@@ -1,7 +1,7 @@
 # finetuningLLMs-Ludwig
-Fine Tuning LLMs with the Ludwig framework
+Fine Tuning LLMs with the `Ludwig` framework
 
-Presentation by `Piero Malino` about Ludwid is [here](https://www.youtube.com/watch?v=t84hJrjXaj4).
+Presentation by `Piero Malino` about Ludwid is [here](https://www.youtube.com/watch?v=t84hJrjXaj4) on YouTube channel of `FourthBrain`.
 
 ![Screenshot from 2023-04-09 02-38-29](https://user-images.githubusercontent.com/49360095/230742394-71e5b615-19f9-43f4-9926-4c236627d2f5.png)
 ![Screenshot from 2023-04-09 02-40-20](https://user-images.githubusercontent.com/49360095/230742402-baa90661-e2ed-44e1-9557-a6d095db77aa.png)
